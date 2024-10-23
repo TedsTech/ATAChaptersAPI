@@ -1,0 +1,26 @@
+{
+  "name": "atachaptersapi",
+  "version": "1.0.0",
+  "description": "ATA 100 contains the reference to the ATA numbering system which is a common referencing standard for commercial aircraft documentation. This commonality permits greater ease of learning and understanding for pilots, aircraft maintenance technicians, and engineers alike.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node-dev src/index.ts"
+  },
+  "keywords": [],
+  "author": "David Pyakurel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.7.9",
+    "@types/swagger-jsdoc": "^6.0.4",
+    "@types/swagger-ui-express": "^4.1.6",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.6.3"
+  }
+}
