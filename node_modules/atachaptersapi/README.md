@@ -29,4 +29,4 @@ The contributions must install has the "Prebuilt" Node.js: [Link Here](https://n
 If you need help, you can reach out to jam.davidpack70@gmail.com
 
 ## Contributing
-We welcome contributions! Please see our [CONTRIBUTING.md](CONTIRIBUTING.md) for guidelines on how to get involved.
+We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to get involved.
