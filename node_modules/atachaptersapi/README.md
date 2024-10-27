@@ -7,7 +7,7 @@ This project references the ATA 100 numbering system, a common referencing stand
 The ATA 100 system provides a standardized approach for organizing and referencing aircraft documentation. This commonality simplifies the learning process and enhances understanding for pilots, aircraft maintenance technicians, and engineers. Additionally, this project offers an API that any private or public company can integrate into their own software projects.
 
 ## How do I get started?
-The contrubiter must install has the "Prebuilt" Node.js: [Link Here](https://nodejs.org/en/download/prebuilt-installer)
+The contributions must install has the "Prebuilt" Node.js: [Link Here](https://nodejs.org/en/download/prebuilt-installer)
 
 1. Clone this repository:
 
